@@ -50,7 +50,7 @@ public class quiz_System {
                         runQuiz();
                     } else
                     {
-                        System.out.println("👋 Quiz cancelled.");
+                        System.out.println(" Quiz cancelled.");
                     }
                 }
 break;
