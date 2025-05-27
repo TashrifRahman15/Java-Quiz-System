@@ -63,3 +63,22 @@ Make sure to include the [`json-simple`](https://code.google.com/archive/p/json-
 dependencies {
     implementation 'com.googlecode.json-simple:json-simple:1.1.1'
 }
+
+---
+## 🔧 Setup Instructions
+
+1.Open IntelliJ IDEA
+
+2.Create or open your Java project
+
+3.Add the provided quiz_System.java file under src/main/java/project
+
+4.Create a resources folder under src/main/resources/
+
+5.Add a users.json file with initial users (see below)
+
+6.The quiz.json file will be created/updated by the admin during runtime
+
+7.Add the json-simple library dependency
+
+8.Run the program
